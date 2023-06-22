@@ -1,0 +1,16 @@
+#container{
+	width:700px;
+	margin:0 auto;
+}
+header{
+	height:200px;
+	background:pink;
+}
+main{
+	height:500px;
+	background:aquamarine;
+}
+footer{
+	height:100px;
+	background:aqua;
+}
